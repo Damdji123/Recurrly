@@ -59,7 +59,7 @@
     .tabs-pill {
         @apply size-12 items-center justify-center rounded-full bg-transparent;
     }
-    .tabs-active {
+    .tabs-pill-active {
         @apply bg-accent;
     }
     .tabs-glyph {
